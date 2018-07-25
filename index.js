@@ -28,5 +28,5 @@ const App = () => (
 //Render it to the device
 //tenemos que registrar al menos un componente
 //el primer parametro es el nombre del proyecto, albums en este caso
-//luego se pasa el componente cmo segundo argumento
+//luego se pasa el componente como segundo argumento
 AppRegistry.registerComponent('albums', ()=>App);
